@@ -1,7 +1,5 @@
 # CS553-project
-=================================================
----------------------09252019--------------------
-=================================================
+
 Instructions of "Learnply" Program:
 
 1. Program contains the following folders, please make sure they are all under same directory
@@ -31,6 +29,6 @@ You do not need to type this after you click, it will pop out automatically.
 In this program you can change xinit and yinit to change init streamline
 you can change dsep to chande the density of the streamlines.
 you also can change the step to change the accuracy of the streamlines.  
-=================================================
+
 
 
