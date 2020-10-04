@@ -1,0 +1,163 @@
+﻿  icVector.cpp
+  learnply.cpp
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(126): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(839): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(889): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(914): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(923): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1043): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1050): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1052): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1102): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1103): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1137): warning C4305: “=”: 从“double”到“GLfloat”截断
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1168): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1496): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1694): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1701): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1705): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1723): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1730): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1734): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1754): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1692): warning C4101: “x1”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1691): warning C4101: “k”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1692): warning C4101: “py”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1692): warning C4101: “y”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1691): warning C4101: “j”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1691): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1692): warning C4101: “px”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1692): warning C4101: “x2”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1798): warning C4101: “rx”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1798): warning C4101: “ry”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1798): warning C4101: “vx”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1798): warning C4101: “vy”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1814): warning C4101: “rx”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1814): warning C4101: “ry”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1814): warning C4101: “vx”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1814): warning C4101: “vy”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1838): warning C4101: “d1”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1838): warning C4101: “d0”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(1981): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2013): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2016): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2031): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2040): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2052): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2064): warning C4018: “<”: 有符号/无符号不匹配
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2076): warning C4018: “<”: 有符号/无符号不匹配
+  ply.cpp
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(175): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(217): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(221): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(207): warning C4101: “elem”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(205): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(350): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(352): warning C4101: “prop”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(476): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(672): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(707): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(747): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(750): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(754): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1080): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1206): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1321): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1528): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1427): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1562): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1714): warning C4101: “j”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1714): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(1926): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2035): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2036): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2040): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2041): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2117): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2118): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2124): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2339): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2345): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2350): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2328): warning C4101: “count_type”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2327): warning C4101: “prop_type”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2417): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2531): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2557): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2597): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2776): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(2778): warning C4101: “prop”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(3061): warning C4101: “count”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(3060): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\ply.cpp(3270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(536): note: 参见“strdup”的声明
+  tmatrix.cpp
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\tmatrix.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\tmatrix.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\tmatrix.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\tmatrix.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  trackball.cpp
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(109): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(110): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(111): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(175): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(187): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(233): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(354): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(406): warning C4305: “参数”: 从“double”到“float”截断
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(407): warning C4305: “参数”: 从“double”到“float”截断
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(418): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(424): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(437): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(450): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(452): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(455): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(478): warning C4101: “i”: 未引用的局部变量
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(536): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(537): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(538): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(541): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(542): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(543): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(546): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(547): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\trackball.cpp(548): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+d:\cs553\final_project_mingzhaoliu_fanghaige\learnply\learnply.cpp(2087): warning C4715: “istaken”: 不是所有的控件路径都返回值
+icVector.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  learnply.vcxproj -> D:\CS553\final_project_MingzhaoLiu_FanghaiGe\learnply\.\Debug\learnply.exe
